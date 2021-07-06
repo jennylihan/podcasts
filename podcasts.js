@@ -7,7 +7,7 @@ let data = {
             },
             "image": {
               "alt":"perry with chicken leg",
-              "url":"images/chickn.jpg"
+              "url":"images/1.jpeg"
             },
             "type":"podcast",
             "text": "Saidu Tejan-Thomas makes me melt."
